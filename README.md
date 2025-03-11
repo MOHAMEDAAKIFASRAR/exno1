@@ -1,6 +1,9 @@
 # Exno:1
 Data Cleaning Process
 
+BY : MOHAMED AAKIF ASRAR S
+REG NO : 212223240088
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -23,8 +26,6 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 
-BY:MOHAMED AAKIF ASRAR S
-REG NO: 212223240088
 
 ```
 import pandas as pd
